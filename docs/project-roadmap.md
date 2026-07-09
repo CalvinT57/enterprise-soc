@@ -1,25 +1,88 @@
-# Enterprise SOC Roadmap
+# Project Sentinel Roadmap
 
 ## Phase 1
-Architecture Design
+
+Planning
+
+- Business Requirements
+- Architecture
+- Network Design
+- VM Planning
+
+---
 
 ## Phase 2
-Infrastructure Deployment
+
+Infrastructure
+
+- pfSense
+- Active Directory
+- DNS
+- DHCP
+- Windows Clients
+
+---
 
 ## Phase 3
-Security Monitoring
+
+Security Stack
+
+- Wazuh
+- Sysmon
+- Suricata
+
+---
 
 ## Phase 4
+
 Attack Simulation
 
-## Phase 5
-Threat Detection
+- Password Spraying
+- PowerShell
+- Brute Force
+- Mimikatz
+- Kerberoasting
+- Lateral Movement
 
-## Phase 6
+---
+
+## Phase 5
+
 Incident Response
 
+- Alert Investigation
+- IOC Collection
+- Root Cause Analysis
+- Documentation
+
+---
+
+## Phase 6
+
+Detection Engineering
+
+- Sigma Rules
+- Wazuh Rules
+- Custom Alerts
+
+---
+
 ## Phase 7
-Automation
+
+Security Automation
+
+- Python
+- VirusTotal
+- TheHive
+- Shuffle
+
+---
 
 ## Phase 8
-Cloud Integration
+
+Cloud Security
+
+- AWS
+- CloudTrail
+- GuardDuty
+- Security Hub
